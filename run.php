@@ -90,4 +90,4 @@ echo "\e[91m [ GAGAL ]\e[0m\n".PHP_EOL;
  }  
  $i++;
  }
-  echo "\e[33mJANGAN LUPA CEK NOTE.TXT\e[0m\n";
+  echo "\e[33mANYJAY NGEHEK\e[0m\n";
