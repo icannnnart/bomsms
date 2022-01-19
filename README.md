@@ -1,0 +1,2 @@
+# bomsms
+ngehek esemes xixixi
